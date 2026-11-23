@@ -1,4 +1,4 @@
-### Hi there, I'm Craftboy 👋
+### Hi there, I'm Zain 👋
 ## I'm a Student, and a Developer!!!
 
 <div align="right">
@@ -17,14 +17,6 @@
 - 😼 Expert in Automating Works
 
 <hr>
-<div>
-
-  <h3 align="center">Connect with me<br></h3>
-  <p align="center">
-  <a href="https://discord.com/users/666663639616454707"><img alt="Python" src="https://discord.c99.nl/widget/theme-4/666663639616454707.png"></a>
-</p>
-  <hr>
-  </div>
 
 <div>
   <h3 align="center">Languages I know<br></h3>
@@ -43,6 +35,9 @@
     <a href="https://flask.palletsprojects.org" target="_blank"><img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
     <a href="https://opencv.org" target="_blank"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
     <a href="https://fastapi.tiangolo.com" target="_blank"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"></a>
+    ![Java](https://shields.io)
+    ![React](https://shields.io)
+    ![Next JS](https://shields.io)
 </p>
   </div><hr>
   <div>
@@ -66,7 +61,4 @@
   </p>
   </div><hr>
   
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <p align="center">
-    <img align="centre" alt="Craftboy's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=craftboy98&show_icons=true&hide_border=true&theme=react&count_private=true" /></pr></details>
+
