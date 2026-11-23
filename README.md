@@ -1,16 +1,6 @@
 ### Hi there, I'm Zain 👋
 ## I'm a Student, and a Developer!!!
 
-<div align="right">
-  <a href="Zain" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://api.daily.dev/devcards/d854a534e8404db5988e16a2eea8d403.png?r=9w0"
-    />
-  </a>
-</div>
-
 - 🔭 Currently working on few projects
 - 🌱 Currently learning Web Development
 - ⚡ Fun Fact: I am a Verified Bot Developer on Discord
