@@ -21,13 +21,13 @@
 <div>
   <h3 align="center">Languages I know<br></h3>
   <p align="center">
-  <a href="https://python.org"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
-  <a href="https://www.google.com/search?q=html&rlz=1C1CHBF_enIN930IN930&oq=html&aqs=chrome..69i57j69i59j69i60l3j69i65l2.1424j0j1&sourceid=chrome&ie=UTF-8"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
-  <a href="https://www.google.com/search?q=css&rlz=1C1CHBF_enIN930IN930&oq=css&aqs=chrome..69i57j69i59j69i60l3j69i65l2.1424j0j1&sourceid=chrome&ie=UTF-8" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
+<a href="https://python.org" target="_blank"><img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://html.spec.whatwg.org" target="_blank"><img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></a>
   <a href="https://javascript.org" target="_blank"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>
-    <a href="https://react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
-    <a href="https://nextjs.org" target="_blank"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
-    <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+  <a href="https://react.dev" target="_blank"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+  <a href="https://nextjs.org" target="_blank"><img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
+  <a href="https://www.java.com" target="_blank"><img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></a>
 </p>
   <hr>
   </div>
